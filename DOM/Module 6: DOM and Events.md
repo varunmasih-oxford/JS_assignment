@@ -11,7 +11,7 @@ The assignment will help you practise selecting HTML elements, modifying content
 Build a webpage with the following interface.
 
 ## Student Task Manager
-<img src="" alt="loading...">
+<img src="form_ss.png" alt="loading...">
 Manage your daily learning tasks
 
 Task name
