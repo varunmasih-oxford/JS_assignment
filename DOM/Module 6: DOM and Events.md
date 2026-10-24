@@ -128,28 +128,3 @@ Submit the following files:
 
 Your application should work in a modern browser without requiring a backend or database.
 
-## 5. Evaluation Criteria
-
-| Criteria                       | Marks |
-| ------------------------------ | ----- |
-| DOM element selection          | 10    |
-| Text, attributes and styles    | 10    |
-| Creating and removing elements | 15    |
-| Event listeners                | 10    |
-| Form validation                | 15    |
-| Event objects                  | 10    |
-| Bubbling and delegation        | 15    |
-| Debugging and code quality     | 15    |
-| Total                          | 100   |
-
-## 6. Bonus Challenges
-
-Attempt these after completing the main assignment.
-
-1. Add filters for All, Pending and Completed tasks.
-2. Show the total, completed and pending task counts.
-3. Save tasks in `localStorage` so they remain after refreshing the page.
-4. Add a confirmation before deleting a task.
-5. Display a message when all tasks are completed.
-
-Final learning outcome: By completing this assignment, students should be able to build an interactive webpage using JavaScript DOM manipulation, event handling, form validation, event delegation and browser debugging.
