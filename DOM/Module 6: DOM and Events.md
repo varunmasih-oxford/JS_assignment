@@ -1,10 +1,5 @@
 # Module 6: DOM and Events
 
-Assignment Title: Interactive Student Task Manager\
-Level: Beginner to Intermediate\
-Technology: HTML, CSS, JavaScript\
-Suggested Duration: 2–3 hours
-
 ## 1. Assignment Objective
 
 Create an interactive Student Task Manager using JavaScript DOM manipulation and events. Users should be able to add tasks, mark tasks as completed, delete tasks, and validate form inputs.
