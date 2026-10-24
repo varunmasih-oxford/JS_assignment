@@ -12,35 +12,6 @@ Build a webpage with the following interface.
 
 ## Student Task Manager
 <img src="form_ss.png" alt="loading...">
-Manage your daily learning tasks
-
-Task name
-
-Priority
-
-Low
-
-Medium
-
-High
-
-Add Task
-
-Please enter a task name.
-
-Task List
-
-2 tasks
-
-Practise JavaScript DOM
-
-High
-
-Complete HTML assignment
-
-Medium
-
-Interactive preview of the expected features. Build your own version using HTML, CSS and JavaScript.
 
 ## 3. Tasks to Complete
 
